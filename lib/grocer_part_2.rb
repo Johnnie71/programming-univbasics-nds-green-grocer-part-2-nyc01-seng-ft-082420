@@ -50,6 +50,4 @@ def checkout(cart, coupons)
   
      counter += 1 
   end
-  
-  
 end
