@@ -1,7 +1,7 @@
 require_relative './part_1_solution.rb'
 
 def apply_coupons(cart, coupons)
-  cart_item = 
+  cart_item = find_item
   counter = 0 
   while counter < coupons.length 
   
