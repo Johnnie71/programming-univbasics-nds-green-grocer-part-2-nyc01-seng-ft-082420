@@ -4,6 +4,10 @@ def apply_coupons(cart, coupons)
   # Consult README for inputs and outputs
   #
   # REMEMBER: This method **should** update cart
+  
+  new_array = []
+  counter = 0 
+  
 end
 
 def apply_clearance(cart)
